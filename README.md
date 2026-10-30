@@ -77,6 +77,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [lyra](./plugins/lyra)
 - [magebyte-power](https://github.com/MageByte-Zero/magebyte-power) — Production-incident-distilled Claude Code skill: 7-phase workflow with 4-round AI cross-verification that catches concurrency & idempotency bugs before prod
 - [model-context-protocol-mcp-expert](./plugins/model-context-protocol-mcp-expert)
+- [multi-llm](https://github.com/beastlabai/multi-llm-plugin) - Run parallel plan reviews, task generation, implementation, and code reviews across multiple coding CLIs from Claude Code.
 - [now-next-methodology](https://github.com/soutone/now-next-methodology) - Two-file task management system for Claude Code/OpenCode: NOW.md tracks current work, NEXT.md queues future tasks with /next command
 - [problem-solver-specialist](./plugins/problem-solver-specialist)
 - [reviewer-author-loop](./plugins/reviewer-author-loop)

@@ -63,6 +63,7 @@
 - [claude-desktop-extension](./plugins/claude-desktop-extension)
 - [lyra](./plugins/lyra)
 - [model-context-protocol-mcp-expert](./plugins/model-context-protocol-mcp-expert)
+- [multi-llm](https://github.com/beastlabai/multi-llm-plugin) - 在 Claude Code 中并行调用多个编程 CLI，进行计划评审、任务生成、实现和代码评审。
 - [problem-solver-specialist](./plugins/problem-solver-specialist)
 - [studio-coach](./plugins/studio-coach)
 - [tree-ring-memory](https://github.com/TerminallyLazy/tree-ring-memory-claude-plugin)
